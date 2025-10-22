@@ -7,3 +7,4 @@ fuzzywuzzy==0.18.0
 python-Levenshtein==0.21.2
 numpy==1.26.2
 pandas==2.1.0
+blis==0.7.10
